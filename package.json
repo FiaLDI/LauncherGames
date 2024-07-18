@@ -1,0 +1,21 @@
+{
+    "name": "LauncherGames",
+    "version": "0.0.1",
+    "description": "",
+    "main": "App.js",
+    "scripts": {
+        "start": "nodemon .\\src\\App.js",
+        "dev": "node .\\src\\App.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "consolidate": "^1.0.3",
+        "express": "^4.19.2",
+        "handlebars": "^4.7.8"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.4"
+    }
+}

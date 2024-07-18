@@ -1,0 +1,24 @@
+{
+    "name": "src",
+    "version": "1.0.0",
+    "description": "",
+    "main": "localhost:3000",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "window": {
+      "title": "Breakout",
+      "icon": "assets/icon.png",
+      "toolbar": true,
+      "width": 1546,
+      "height": 960,
+      "min_width": 1546,
+      "min_height": 960,
+      "max_width": 1546,
+      "max_height": 960,
+      "position": "mouse"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
